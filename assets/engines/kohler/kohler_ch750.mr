@@ -16,7 +16,7 @@ public node kohler_ch750 {
         name: "Kohler CH750",
         starter_torque: 50 * units.lb_ft,
         starter_speed: 500 * units.rpm,
-        redline: 3600 * units.rpm
+        redline: 14000 * units.rpm
     )
 
     wires wires()

@@ -1,8 +1,9 @@
 import "engine_sim.mr"
-import "engines/kohler/kohler_ch750.mr"
+import "engines/chevrolet/chev_truck_454.mr"
+import "engines/chevrolet/chev_truck_454.mr"
 
 set_engine(
-    engine: kohler_ch750()
+    engine: chev_truck_454()
 )
 
 set_application_settings(
